@@ -1,5 +1,12 @@
-# Magic8Ball
+
+# Magic 8 Ball
+
+## Description
 
 A simple app to play with iPhone shake motion
 
-![](https://raw.githubusercontent.com/AnthonyJean/Magic8Ball/master/screenshot.png)
+## Screenshots
+
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Magic8Ball/master/screenshot.png">
+</p>
